@@ -1,10 +1,14 @@
 <?php
-include('../vendor/autoload.php');
-//use PHPUnit\Framework\TestCase;
+use PHPUnit\Framework\TestCase;
 
-class GuestBookTest extends PHPUnit_Extensions_
+class GuestBookTest
 {
     //PHPUnit_Extensions_Database_TestCase
 
+
+}
+
+function a()
+{
 
 }
